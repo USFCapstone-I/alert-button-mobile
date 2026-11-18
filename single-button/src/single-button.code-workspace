@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Receiver",
+			"path": "../../../../OneDrive/Attachments/Documents/PlatformIO/Projects/Receiver"
+		},
+		{
+			"name": "Beacons",
+			"path": "../../../../OneDrive/Attachments/Documents/PlatformIO/Projects/Beacons"
+		}
+	],
+	"settings": {}
+}
